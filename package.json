@@ -9,7 +9,8 @@
   "author": "Checheza AB",
   "license": "MIT",
   "dependencies": {
-    "@babel/polyfill": "^7.8.7"
+    "@babel/polyfill": "^7.8.7",
+    "jquery": "^3.5.1"
   },
   "devDependencies": {
     "@babel/cli": "^7.8.4",

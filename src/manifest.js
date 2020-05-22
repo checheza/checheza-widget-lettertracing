@@ -1,10 +1,10 @@
 const Manifest = {
-    "name": "Example Widget",
-    "identifier": "author.widget.name",
-    "author": "Alice Bob",
+    "name": "Lettertracing",
+    "identifier": "checheza.widget.lettertracing",
+    "author": "Checheza AB",
     "version": "0.1",
     "type": "widget",
-    "category": "math",
+    "category": "writing",
     "icon": null
 };
 
