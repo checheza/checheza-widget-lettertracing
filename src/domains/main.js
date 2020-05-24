@@ -413,7 +413,6 @@ class MainDomain {
     }
 
         start() {
-    
             this.currentLevel = 2; 
             this.currentGroup = 0;
     

@@ -5,7 +5,7 @@ const Manifest = {
     "version": "0.1",
     "type": "widget",
     "category": "writing",
-    "icon": null
+    "icon": "writing.tracingletters.jpg"
 };
 
 export default Manifest;
