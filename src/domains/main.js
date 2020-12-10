@@ -1468,9 +1468,9 @@ class MainDomain {
             }
             if (this.currentLevel === 2 && this.firstCheckpointInGroupWasHit == false||
                 this.currentLevel === 3 && this.firstCheckpointInGroupWasHit == false) {
-                var brushColor = '#53bc07';
+                var brushColor = '#2E167C';
             } else {
-                var brushColor = '#53bc07';
+                var brushColor = '#2E167C';
             }
             this.brushLines[this.brushLines.length-1].push({
                 x: x,
